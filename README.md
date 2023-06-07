@@ -4,7 +4,7 @@
 + 🌱 Started by journey in Frontend Development with Spotknack<br>
 + 📈 Hungry learner <br>
 
-## Connect with me
+# Connect with me
 [Twitter](https://twitter.com/Kabi0704)<br>
 [LinkedIn](https://www.linkedin.com/in/kabilesh-gs-87707a257/)<br>
 
