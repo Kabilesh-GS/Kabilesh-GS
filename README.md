@@ -1,5 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Kabilesh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabilesh-gs&label=Profile%20views&color=0e75b6&style=flat" alt="kabilesh-gs" /> </p>
++ 📖 Persuing bachelor of technology in KPR Institute of engineering and Technology<br>
++ 🌱 Currently learning Frontend Development with Spotknack<br>
++ 📈 Hungry learner<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabilesh-gs&show_icons=true&locale=en" alt="kabilesh-gs" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabilesh-gs&label=Profile%20views&color=0e75b6&style=flat" alt="kabilesh-gs" /> </p>
