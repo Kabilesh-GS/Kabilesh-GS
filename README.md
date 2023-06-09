@@ -1,7 +1,9 @@
 <h1 align="center">Howdy 👋, I'm Kabilesh</h1>
-+📖 Persuing bachelor of technology in KPR Institute of engineering and Technology<br>
-+🌱 Currently learning Frontend Development with Spotknack<br>
-+📈 Hungry learner<br>
+# 💫 About Me:
+📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>
+🌱 Learning Frontend Development with Spotknack<br>
+📈 I'm a Hungry Learner<br>
+🤩 Fun fact about me : I like to Draw and I like to watch movies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
