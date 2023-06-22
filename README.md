@@ -4,7 +4,7 @@
 🌱 Learning Frontend Development with Spotknack<br>
 📈 I'm a Hungry Learner<br>
 🤩 Fun fact about me : I like to Draw and I like to watch movies
-LinkTree : linktr.ee/kabileshgs
+<a href="linktr.ee/kabileshgs" target="_blank">LinkTree</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
