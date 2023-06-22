@@ -3,8 +3,8 @@
 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>
 🌱 Learning Frontend Development with Spotknack<br>
 📈 I'm a Hungry Learner<br>
-🤩 Fun fact about me : I like to Draw and I like to watch movies
-<a href="linktr.ee/kabileshgs" target="_blank">LinkTree</a>
+🤩 Fun fact about me : I like to Draw and I like to watch movies<br>
+Connect with me at <a href="linktr.ee/kabileshgs" target="_blank">LinkTree</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
