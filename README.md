@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/kabi0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabi0704" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kabilesh-gs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabilesh-gs" height="30" width="40" /></a>
-<a href="https://instagram.com/kabi.07.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabi.07.04" height="30" width="40" /></a>
+<a href="https://linktr.ee/kabileshgs" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fapi.blog.production.linktr.ee%2Fwp-content%2Fuploads%2F2022%2F06%2FAvatarSymbolCanopy.png&tbnid=O22ALMSHsIzOSM&vet=12ahUKEwiupZf0sur_AhWmiGMGHXz7C40QMygFegUIARD3AQ..i&imgrefurl=https%3A%2F%2Flinktr.ee%2F&docid=F0UWe_hcCePxgM&w=800&h=800&itg=1&q=linktree&ved=2ahUKEwiupZf0sur_AhWmiGMGHXz7C40QMygFegUIARD3AQ" alt="kabi.07.04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
