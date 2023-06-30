@@ -10,6 +10,7 @@
 <a href="https://twitter.com/kabi0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabi0704" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kabilesh-gs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabilesh-gs" height="30" width="40" /></a>
 <a href="https://linktr.ee/kabileshgs" target="blank"><img align="center" src=""C:\Users\Kabil\Downloads\download.png"" alt="kabi.07.04" height="30" width="40" /></a>
+  [Lets go to Quora](https://www.quora.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
