@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋, I'm Kabilesh</h1>
-<h3 align="left">About me :</h3>
+# 💫 About Me:
 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>
 🌱 Learning Frontend Development with Spotknack<br>
 📈 I'm a Hungry Learner<br>
