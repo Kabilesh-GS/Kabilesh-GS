@@ -5,14 +5,6 @@
 📈 I'm a Hungry Learner<br>
 🤩 Fun fact about me : I like to Draw and I like to watch movies<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kabi0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabi0704" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kabilesh-gs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabilesh-gs" height="30" width="40" /></a>
-<a href="https://instagram.com/kabi.sketches_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabi.sketches_" height="30" width="40" /></a>
-<a href="https://linktr.ee/kabileshgs" target="blank"><img align="center" src="C:\Users\Kabil\Downloads\linktree-logo-icon.svg" alt="Linktree" height="30" width="40" /></a>
-</p>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kabi.07.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KabileshGS) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kabileshgs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kabi0704) 
 
