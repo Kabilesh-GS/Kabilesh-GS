@@ -7,7 +7,7 @@
 📈 I'm a Hungry Learner<br>
 🤩 Fun fact about me : I like to Draw and I like to watch movies<br>
 
-## 🌐 Socials:
+<h2>🌐 Socials:</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kabi.07.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KabileshGS) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kabileshgs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kabi0704) 
 
 # 💻 Tech Stack:
