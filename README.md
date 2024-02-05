@@ -1,8 +1,6 @@
-<h1 aligh="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hola!+✌️;+I'm+Kabilesh!;" />
 </h1><br>
-
-<img align="right" width="400" src="![Screenshot 2024-02-05 201644](https://github.com/Kabilesh-GS/Kabilesh-GS/assets/115616421/64ba2a16-f0ce-4a22-82cc-e0dda185784e)">
 
 # 💫 About Me:
 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>🌱 Learning Frontend Development with Spotknack<br>📈 I'm a Hungry Learner<br>🤩 Fun fact about me : I like to Draw and watch movies<br>
