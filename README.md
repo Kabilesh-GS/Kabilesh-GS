@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://codeandhack.com/wp-content/uploads/2023/09/Debug-Your-Code-Efficiently.jpg">
 
-📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>🌱 Learner<br>📈 I'm a Hungry Learner<br>🤩 Fun fact about me : I like to Draw and watch movies<br>
+📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>🌱 Learner<br>🤩 Fun fact about me : I like to  watch movies and series<br>
 <h4><a href='https://connect-with-kabi.netlify.app/' target='_blank'>Connect With Me</a></h4><br>
 
 # 🌐 Socials:
