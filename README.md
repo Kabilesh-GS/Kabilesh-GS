@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hola!+✌️;+I'm+Kabilesh!;" />
-</h1><br>
-
 # 💫 About Me:
 
 📖 Pursuing Bachelor of Technology in Information Technology in KPR Institute of Engineering Technology<br>🌱 Learner<br>🤩 Fun fact about me : I like to  watch movies and series<br>
